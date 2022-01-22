@@ -1,0 +1,28 @@
+{
+  "name": "numgle",
+  "version": "0.0.0",
+  "description": "This is a transducer that makes the letter 90 degrees down.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "deno test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnRaro/Numgle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnRaro/Numgle/issues"
+  },
+  "homepage": "https://github.com/tnRaro/Numgle#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
